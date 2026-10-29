@@ -14,7 +14,7 @@ a treść powitania w klasie `Greeting`.
 Wymagany jest zainstalowany .NET SDK.
 
 ```bash
-git clone https://github.com/TWOJ_LOGIN/apbd-cw1-git.git
+git clone https://github.com/MikolajNowacki/apbd-cw1-git.git
 cd apbd-cw1-git
 dotnet build
 dotnet run
